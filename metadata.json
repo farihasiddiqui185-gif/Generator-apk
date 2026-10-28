@@ -1,0 +1,6 @@
+{
+  "name": "Roblox AI Shorts Factory",
+  "description": "Bulk generate complete Roblox-style AI Shorts videos with stories, animations, voiceover, and direct phone gallery saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
